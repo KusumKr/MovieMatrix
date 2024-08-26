@@ -20,32 +20,27 @@
 <br>
 * JavaScript: For adding interactivity, fetching movie data, and handling user actions.
 <br>
-<h2>Installation</h2>
-<p>To run MovieMatrix locally, follow these steps:</p>
-<p>Clone the repository:</p>
-<p>git clone https://github.com/yourusername/MovieMatrix.git</p>
+<h2>Usage</h2>
+* Home Page: The homepage displays a selection of movies.
 <br>
-Navigate to the project directory:
+* Search Bar: Use the search bar at the top to find specific movies.
+<br>
+* Movie Cards: Click on a movie card to view detailed information about the movie.
+<br>
 
-bash
-Copy code
-cd MovieMatrix
-Open index.html in your web browser:
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.</p>
+<br>
+<h2>Fork the repository.</h2>
+* Create a new branch: git checkout -b feature-branch.
+<br>
+* Make your changes and commit them: git commit -m 'Add some feature'.
+<br>
+* Push to the branch: git push origin feature-branch.
+<br>
+* Submit a pull request.
+<br>
 
-You can simply double-click on the index.html file or run a local server using a tool like Live Server in Visual Studio Code.
-
-Usage
-Home Page: The homepage displays a selection of popular movies.
-Search Bar: Use the search bar at the top to find specific movies.
-Movie Cards: Click on a movie card to view detailed information about the movie.
-Filter by Genre: Use the genre filter to narrow down your search to specific types of movies.
-Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-Fork the repository.
-Create a new branch: git checkout -b feature-branch.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature-branch.
-Submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+<h2>License</h2>
+<br>
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
