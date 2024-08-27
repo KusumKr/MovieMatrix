@@ -44,3 +44,21 @@
 <h2>License</h2>
 <br>
 <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+<br>
+<h2>Glimpse</h2>
+<br>
+![Screenshot 2024-08-27 114745](https://github.com/user-attachments/assets/ab28284b-7f51-4766-9fae-f6a01e717e93)
+<br>
+![Screenshot 2024-08-27 114934](https://github.com/user-attachments/assets/b39c5a64-2e41-4517-a153-07e6df872134)
+<br>
+![Screenshot 2024-08-27 115019](https://github.com/user-attachments/assets/f2d8512d-f4fa-4175-a2d8-7a8ed9da519a)
+<br>
+
+<h2>Author</h2>
+<br>
+Kusum Kharayat
+<br>
+Github: KusumKr
+
+
+
