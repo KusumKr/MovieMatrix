@@ -1,9 +1,9 @@
 # MovieMatrix
 <br>
 <h2>Welcome to MovieMatrix</h2>
-<br>
-<p>MovieMatrix is a responsive web application that provides information about various movies, including their synopsis, cast, release date, ratings, and more. Built using HTML, CSS, and Jquery(a library of JavaScript). MovieMatrix offers a user-friendly interface for exploring movies from different genres and eras.</p>
 
+<p>MovieMatrix is a responsive web application that provides information about various movies, including their synopsis, cast, release date, ratings, and more. Built using HTML, CSS, and JQuery(a library of JavaScript). MovieMatrix offers a user-friendly interface for exploring movies from different genres and eras.</p>
+<br>
 <h2>Features</h2>
 * Responsive Design: Works seamlessly on desktops, tablets, and mobile devices.
 <br>
@@ -32,7 +32,7 @@
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.</p>
-<br>
+
 <h2>Fork the repository.</h2>
 * Create a new branch: git checkout -b feature-branch.
 <br>
