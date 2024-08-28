@@ -1,6 +1,8 @@
 # MovieMatrix
-
-<p>MovieMatrix is a responsive web application that provides information about various movies, including their synopsis, cast, release date, ratings, and more. Built using HTML, CSS, and JavaScript, MovieMatrix offers a user-friendly interface for exploring movies from different genres and eras.</p>
+<br>
+<h2>Welcome to MovieMatrix</h2>
+<br>
+<p>MovieMatrix is a responsive web application that provides information about various movies, including their synopsis, cast, release date, ratings, and more. Built using HTML, CSS, and Jquery(a library of JavaScript). MovieMatrix offers a user-friendly interface for exploring movies from different genres and eras.</p>
 
 <h2>Features</h2>
 * Responsive Design: Works seamlessly on desktops, tablets, and mobile devices.
